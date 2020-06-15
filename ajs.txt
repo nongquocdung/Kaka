@@ -1,0 +1,13 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 34F3-5280
+
+ Directory of D:\C#\Quanan\Kaka
+
+06/16/2020  01:20 AM    <DIR>          .
+06/16/2020  01:20 AM    <DIR>          ..
+06/16/2020  01:12 AM                75 a.txt
+06/16/2020  01:21 AM                 0 ajs.txt
+06/16/2020  01:13 AM               436 ak.txt
+06/16/2020  01:12 AM           320,149 Quanan.zip
+               4 File(s)        320,660 bytes
+               2 Dir(s)  108,136,542,208 bytes free
