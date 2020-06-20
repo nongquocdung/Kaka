@@ -1,8 +1,1 @@
-troi oi
-dat hoi
-do diennnnnnnnn
-zui gke ak
-tuc wa
-<<<<<<< HEAD
-trui
-haiz
+change a.txt
