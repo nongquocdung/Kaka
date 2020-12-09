@@ -1,0 +1,150 @@
+[33mcommit 6a9cad4d41e2065a5f54ed6c55ca6e7dbf9b80ac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: andy <qd24052000@gmail.com>
+Date:   Wed Dec 9 23:11:50 2020 +0700
+
+    'aaa'
+
+[33mcommit db9ac2f243efb65e5d37fcdee15ec0beab4478c6[m
+Author: andy <qd24052000@gmail.com>
+Date:   Sun Jun 21 02:15:26 2020 +0700
+
+    Revert ""sua lai ne hehe""
+    
+    This reverts commit 9ecb691a7c160dad7f684eb26bbd24da2e5536c5.
+
+[33mcommit 9ecb691a7c160dad7f684eb26bbd24da2e5536c5[m
+Author: andy <qd24052000@gmail.com>
+Date:   Sun Jun 21 02:10:35 2020 +0700
+
+    "sua lai ne hehe"
+    
+    This reverts commit d26afd6aae2cba4feabe3c9e015bdb35c10496ad.
+
+[33mcommit d26afd6aae2cba4feabe3c9e015bdb35c10496ad[m
+Author: andy <qd24052000@gmail.com>
+Date:   Sat Jun 20 19:07:11 2020 +0700
+
+    a
+
+[33mcommit aec942523f3d97cf172b74a7c4da0e8711d7f49c[m
+Author: andy <qd24052000@gmail.com>
+Date:   Sat Jun 20 18:48:55 2020 +0700
+
+    haiz
+    
+    This reverts commit 23e915e6fb4554f91f939094dd94158662d09d30.
+
+[33mcommit 9c83d8ccd76f61944388458c1239b213560e1463[m
+Author: andy <qd24052000@gmail.com>
+Date:   Wed Jun 17 21:36:40 2020 +0700
+
+    akaka
+
+[33mcommit 0235aa65ba85e78b89d1e9cc8204ac2d76f21845[m
+Author: andy <qd24052000@gmail.com>
+Date:   Wed Jun 17 19:26:06 2020 +0700
+
+    new
+
+[33mcommit 3837beaafcecc568f13645836bbd9328b66341b4[m
+Author: nongquocdung <66350526+nongquocdung@users.noreply.github.com>
+Date:   Wed Jun 17 19:22:56 2020 +0700
+
+    Update troi.txt
+
+[33mcommit 23e915e6fb4554f91f939094dd94158662d09d30[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 01:37:42 2020 +0700
+
+    da chuyen file
+
+[33mcommit 84afab76b74890abedece8e633beacd3864892d1[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 01:34:44 2020 +0700
+
+    ha
+
+[33mcommit eeacec6fa740f51f5c2d7467d384b4619b2b1b34[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 01:32:12 2020 +0700
+
+    as
+
+[33mcommit 99aa18bc4558810734f0201907ae379a8d6302d3[m
+Author: nongquocdung <66350526+nongquocdung@users.noreply.github.com>
+Date:   Tue Jun 16 01:29:45 2020 +0700
+
+    a
+
+[33mcommit 8028234ea745f925298883e20cbecb65c5418294[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 01:27:27 2020 +0700
+
+    xoa ajs.txt
+
+[33mcommit 6c3ec6c3460bc95ab8e5036f350a8d593381fd5a[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 01:23:16 2020 +0700
+
+    da xoa ak.txt
+
+[33mcommit 6322481078173b4046300dd78b6a14347d66de2b[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 01:21:48 2020 +0700
+
+    them 2 file
+
+[33mcommit 79c8ca55858a5fa1d41f79e668480883073f3a1a[m
+Merge: 2fa645f 954d40b
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 01:09:08 2020 +0700
+
+    unconflict
+
+[33mcommit 2fa645f12857267c614e9c36d96a018f323a03b1[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 01:06:16 2020 +0700
+
+    da sua oi nha
+
+[33mcommit 954d40b18dbf4bc9608f5fe440c9726dd042634f[m
+Author: nongquocdung <66350526+nongquocdung@users.noreply.github.com>
+Date:   Tue Jun 16 01:02:43 2020 +0700
+
+    a
+
+[33mcommit aa1a511b6713aeabaaa6e7cad249c85986516fe6[m
+Author: nongquocdung <66350526+nongquocdung@users.noreply.github.com>
+Date:   Tue Jun 16 01:00:46 2020 +0700
+
+    Hehe
+
+[33mcommit 48cc391b1a3a46e3e48019e6465ec94189f0a8dc[m
+Author: nongquocdung <66350526+nongquocdung@users.noreply.github.com>
+Date:   Tue Jun 16 01:00:30 2020 +0700
+
+    Update a.txt
+
+[33mcommit d77d2b15f67c439394f5162b5906f457fcfe1ec0[m
+Author: nongquocdung <66350526+nongquocdung@users.noreply.github.com>
+Date:   Tue Jun 16 00:58:13 2020 +0700
+
+    Update a.txt
+
+[33mcommit 602639d854c9fdf71bf2c8cee8c91ce696c2a884[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 00:57:12 2020 +0700
+
+    change a.txt
+
+[33mcommit 1a652a5effcca80622dba8daa91dc3b8acc74aef[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 00:53:39 2020 +0700
+
+    asas
+
+[33mcommit b4714e40304dd8dd8aa08ee065782069d6632c7b[m
+Author: andy <qd24052000@gmail.com>
+Date:   Tue Jun 16 00:44:27 2020 +0700
+
+    Ahihi
